@@ -1,0 +1,17 @@
+export { default as PayPal } from './PayPal';
+export { default as WesternUnion } from './WesternUnion';
+export { default as Stripe } from './Stripe';
+export { default as Mastercard } from './Mastercard';
+export { default as Visa } from './Visa';
+export { default as Swift } from './Swift';
+export { default as AmericanExpress } from './AmericanExpress';
+export { default as WebMoney } from './WebMoney';
+export { default as JCB } from './JCB';
+export { default as WorldPay } from './WorldPay';
+export { default as Sberbank } from './Sberbank';
+export { default as DirectDebit } from './DirectDebit';
+export { default as QIWI } from './QIWI';
+export { default as AlfaBank } from './AlfaBank';
+export { default as Tinkoff } from './Tinkoff';
+export { default as YandexKassa } from './YandexKassa';
+export { default as Shopify } from './Shopify';

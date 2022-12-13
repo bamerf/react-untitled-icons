@@ -1,0 +1,16 @@
+export { default as Telegram } from './Telegram';
+export { default as WhatsApp } from './WhatsApp';
+export { default as Viber } from './Viber';
+export { default as Slack } from './Slack';
+export { default as FBMessenger } from './FBMessenger';
+export { default as Line } from './Line';
+export { default as WeChat } from './WeChat';
+export { default as KakaoTalk } from './KakaoTalk';
+export { default as Skype } from './Skype';
+export { default as Hangouts } from './Hangouts';
+export { default as Messages } from './Messages';
+export { default as Spectrum } from './Spectrum';
+export { default as Zoom } from './Zoom';
+export { default as Discord } from './Discord';
+export { default as FaceTime } from './FaceTime';
+export { default as GoogleMeet } from './GoogleMeet';

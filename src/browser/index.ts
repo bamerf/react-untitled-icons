@@ -1,0 +1,9 @@
+export { default as FireFox } from './FireFox';
+export { default as Safari } from './Safari';
+export { default as Opera } from './Opera';
+export { default as Chrome } from './Chrome';
+export { default as IE } from './IE';
+export { default as UC } from './UC';
+export { default as Edge } from './Edge';
+export { default as Tor } from './Tor';
+export { default as Yandex } from './Yandex';

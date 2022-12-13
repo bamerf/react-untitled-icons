@@ -1,0 +1,16 @@
+export { default as Dribble } from './Dribble';
+export { default as Behance } from './Behance';
+export { default as Invision } from './Invision';
+export { default as Autodesk } from './Autodesk';
+export { default as AdobeLightroom } from './AdobeLightroom';
+export { default as AdobeIllustrator } from './AdobeIllustrator';
+export { default as AdobeAfterEffects } from './AdobeAfterEffects';
+export { default as AdobeInDesign } from './AdobeInDesign';
+export { default as AdobeXD } from './AdobeXD';
+export { default as Sketch } from './Sketch';
+export { default as Figma } from './Figma';
+export { default as Zeplin } from './Zeplin';
+export { default as Adobe } from './Adobe';
+export { default as Framer } from './Framer';
+export { default as Marvel } from './Marvel';
+export { default as Procreate } from './Procreate';
