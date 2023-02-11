@@ -1,6 +1,6 @@
 {
-  "name": "@bamerf/icons",
-  "version": "1.0.0",
+  "name": "@bamerf/react-untitled-icons",
+  "version": "0.0.0",
   "description": "A collection of icons based on the Untitled UI design system",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/bamerf"
